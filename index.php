@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8">
 
-    <meta name="description" content="Covid-@rt - Partage de photos, idées...">
+    <meta name="description" content="Web CV Inès Souidi - Junior Web Developer">
     <meta name="robots" content="nofollow" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 
-    <title>Covid-@rt</title>
+    <title>Web-CV Inès Souidi</title>
     
    
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -125,7 +125,7 @@ header("Strict-Transport-Security:max-age=31536000; includeSubdomains; preload")
                                        </div>
                               </section>
                               <section class="right-side">
-                                          <div class="right-cont">
+                                          <div class="right-cont right1">
                                                          <h2 class="h2_white" id="h2-white-comp">COMPÉTENCES</h2>
                                                          <div class="skills" id="s1">HTML</div>
                                                          <div class="skills" id="s1-5">CSS</div>
@@ -139,7 +139,7 @@ header("Strict-Transport-Security:max-age=31536000; includeSubdomains; preload")
                                                          <div class="skills" id="s6">SWIFT & SWIFT UI</div>  
                                            </div>
                                            <div id="border-bottom-right"></div>
-                                           <div class="right-cont" id="right-lang">
+                                           <div class="right-cont right2" id="right-lang">
                                                          <h2 class="h2_white">LANGUES</h2>
                                                          <div id="lang-cont">
                                                                     <div class="lang">ANGLAIS </div>//<span class="niv_lang">Courant</span>
@@ -151,7 +151,7 @@ header("Strict-Transport-Security:max-age=31536000; includeSubdomains; preload")
                                                                     <div class="lang">RUSSE </div>//<span class="niv_lang">Lu et écrit</span>
                                                         </div>
                                          </div>    
-                                         <div class="right-cont" id="right-summ">
+                                         <div class="right-cont right3" id="right-summ">
                                                        <h2 class="h2_white" id="h2-white2">PROFIL</h2>
                                                                    <div class="paragraphe-white">Ma formation de développeur web terminée en Avril 2021, <strong> je suis à la recherche d'un emploi en tant que développeur web junior </strong> Paraplégique à la suite d'un accident survenu il y a plus de cinq ans et reconnue travailleuse RQTH, je suis indépendante, mobile, véhiculée et pas de contre indication pour travailler à plein temps</div>
                                          </div>
