@@ -71,54 +71,54 @@ header("Strict-Transport-Security:max-age=31536000; includeSubdomains; preload")
                                         <div id="top-left">
                                                     <h2 class="h2_black">FORMATIONS</h2>
                                                     <div class="form-cont">
-                                                                <div class="cont-dat"><div class="dates">2021</div></div> 
+                                                                <div class="cont-dat-wrap"><div class="cont-dat">2021</div></div> 
                                                                 <div class="form-cont2">  <h3>TITRE PROFESSIONNEL <br>DÉVELOPPEUR WEB ET WEB MOBILE // SIMPLON MARSEILLE</h3> 
                                                                           <p class="paragraphe">   Développer la partie front-end et back-end d’une application web </p></div>
                                                      </div>     
                                                       <div class="form-cont">
-                                                                 <div class="cont-dat"><div class="dates">2021</div></div> 
+                                                                 <div class="cont-dat-wrap"><div class="cont-dat">2021</div></div> 
                                                                   <div class="form-cont2">  <h3>LIGHT4EVENTS <BR>STAGE DÉVELOPPEMENT APPLICATION WEB MOBILE</h3> 
                                                                           <p class="paragraphe"> Développer la partie front-end d’une application mobile en JavaScript </p></div>
                                                       </div>          
                                                    <div class="form-cont">
-                                                                <div class="cont-dat"><div class="dates"> 2021 </div> </div>
+                                                                <div class="cont-dat-wrap"><div class="cont-dat"> 2021 </div> </div>
                                                                 <div class="form-cont2">   <h3> CERTIFICATION AGILE </h3>
                                                                            <p class="paragraphe"> Méthodes agiles de gestion et ammorçage de projet</p></div>
                                                    </div>
                                                   <div class="form-cont">
-                                                                <div class="cont-dat"><div class="dates"> 2021 </div> </div>
+                                                                <div class="cont-dat-wrap"><div class="cont-dat"> 2021 </div> </div>
                                                                 <div class="form-cont2">   <h3>CERTIFICATION OPQUAST </h3>
                                                                           <p class="paragraphe">Maîtrise de la qualité en projet web </p> </div>
                                                   </div>
                                                   <div class="form-cont">
-                                                                <div class="cont-dat"><div class="dates"> 2020 </div> </div>
+                                                                <div class="cont-dat-wrap"><div class="cont-dat"> 2020 </div> </div>
                                                                 <div class="form-cont2">  <h3>APPLE FOUNDATION PROGRAM  //  SIMPLON MARSEILLE</h3>
                                                                          <p class="paragraphe">Initiation à la création d’applications mobiles avec l’écosystème d’Apple</p> </div>
                                                   </div>
                                                   <div class="form-cont">
-                                                                 <div class="cont-dat"><div class="dates"> 2012 </div> </div>
+                                                                 <div class="cont-dat-wrap"><div class="cont-dat"> 2012 </div> </div>
                                                                  <div class="form-cont2">  <h3>LICENCE DE SOCIOLOGIE  // UNIVERSITÉ D'AIX-MARSEILLE</h3></div>
                                                   </div>      
                                        </div>
                                        <div id="bottom-left">
                                              <h2 class="h2_black">EXPÉRIENCES</h2>
                                                   <div class="form-cont">
-                                                              <div class="cont-dat"> <div class="dates"> 2015<br>2016 </div> </div>
+                                                              <div class="cont-dat-wrap"> <div class="cont-dat"> 2015<br>2016 </div> </div>
                                                                <div class="form-cont2 "> <h3>MANDATAIRE EN IMMOBILIER</h3> 
                                                                          <p class="paragraphe">Achat Vente et Location de biens immobiliers</p></div>
                                                    </div>
                                                    <div class="form-cont">
-                                                               <div class="cont-dat"><div class="dates"> 2015 </div></div>
+                                                               <div class="cont-dat-wrap"><div class="cont-dat"> 2015 </div></div>
                                                                <div class="form-cont2"> <h3>SECRÉTAIRE STANDARDISTE</h3>
                                                                          <p class="paragraphe">Accueil physique et téléphonique, tâches administratives</p></div>
                                                   </div> 
                                                  <div class="form-cont">
-                                                             <div class="cont-dat"> <div class="dates">2012<br> 2015 </div></div>
+                                                             <div class="cont-dat-wrap"> <div class="cont-dat">2012<br> 2015 </div></div>
                                                              <div class="form-cont2 "> <h3>TRAVAIL EN AUSTRALIE</h3>
                                                                         <p class="paragraphe"> Hôtesse sur un bâteau de croisière, cuisinière... </p></div>
                                                   </div>
                                                   <div class="form-cont">
-                                                  <div class="cont-dat"><div class="dates">2008 <br> 2012 </div></div>
+                                                  <div class="cont-dat-wrap"><div class="cont-dat">2008 <br> 2012 </div></div>
                                                               <div class="form-cont2"> <h3>RESTAURATION</h3>
                                                                        <p class="paragraphe">Serveuse, vendeuse en boulangerie, barmaid...</p></div>
                                                  </div>    
