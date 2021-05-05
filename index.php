@@ -141,13 +141,13 @@ header("Strict-Transport-Security:max-age=31536000; includeSubdomains; preload")
                                            <div id="border-bottom-right"></div>
                                            <div class="right-cont right2" id="right-lang">
                                                          <h2 class="h2_white">LANGUES</h2>
-                                                         <div id="lang-cont">
+                                                         <div class="lang-cont">
                                                                     <div class="lang">ANGLAIS </div>//<span class="niv_lang">Courant</span>
                                                         </div>
-                                                        <div id="lang-cont"> 
+                                                        <div class="lang-cont"> 
                                                                     <div class="lang">ESPAGNOL </div>//<span class="niv_lang">Scolaire</span>
                                                         </div>
-                                                        <div id="lang-cont">
+                                                        <div class="lang-cont">
                                                                     <div class="lang">RUSSE </div>//<span class="niv_lang">Lu et écrit</span>
                                                         </div>
                                          </div>    
